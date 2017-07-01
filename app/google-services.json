@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1066349480076",
+    "firebase_url": "https://dndgrimorio-17f24.firebaseio.com",
+    "project_id": "dndgrimorio-17f24",
+    "storage_bucket": "dndgrimorio-17f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066349480076:android:b2620c9a9ea7d3f6",
+        "android_client_info": {
+          "package_name": "rdh.dndgrimorio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066349480076-6ckdfa03s8b074ncenk14udbqs997m85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rdh.dndgrimorio",
+            "certificate_hash": "8b1bbcc5568e58608f9fd9e08eddf33316c3e496"
+          }
+        },
+        {
+          "client_id": "1066349480076-a42eikcb0egrhhtjm3862odpr0se12o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD14_iGgi1KK5hC230PagmI3_fQXKtMRzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066349480076-a42eikcb0egrhhtjm3862odpr0se12o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
