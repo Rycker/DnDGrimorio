@@ -9,15 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.LoginActivity"
-            android:theme="@style/LoginAppTheme">
+        <activity
+            android:name=".activity.LoginActivity">
+            <!--android:theme="@style/LoginAppTheme">-->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.MainActivity"></activity>
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.NovoGrimorioActivity" />
+        <!--<activity android:name=".activity.LoginActivity"/>-->
     </application>
 
 </manifest>
